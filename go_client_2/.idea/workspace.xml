@@ -21,14 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="d96f60b0-eb62-48c6-9d73-03829ffa72b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go_client_crud.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/neo4j/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/model/event.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/.idea/go_client_crud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go_client_crud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/cmd/neo4j/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_client_crud/pkg/model/event.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,21 +107,21 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1600532103778">
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1600533155047">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1600532103778" />
-    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1600532103772">
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1600533155047" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1600533155046">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1600532103772" />
-    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1600532103772">
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1600533155046" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1600533155045">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1600532103772" />
-    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1600532103777">
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1600533155045" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1600533155046">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1600532103777" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1600533155046" />
   </component>
 </project>
